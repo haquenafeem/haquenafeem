@@ -5,3 +5,4 @@ I am Nafeem Haque.
 - 🌱 I’m currently learning different technologies and trying to enrich my knowledge.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: [@email](mailto:haquenafeem@gmail.com), [@linkedIn](https://www.linkedin.com/in/nafeem-haque/)
+- 📝 Read my blogs [here](https://haquenafeem.github.io/posts/)
